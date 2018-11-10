@@ -8,6 +8,7 @@ public class Move : MonoBehaviour {
     //무안단물
     //가나다라마 자신있나
     //dmdl
+    //이거나 받아라!
 
 	// Use this for initialization
 	void Start () {
