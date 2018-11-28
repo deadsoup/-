@@ -13,6 +13,7 @@ public class Move : MonoBehaviour {
     //여기는 강빈컴퓨터다
     //여기는 효민이 컴퓨터다 이말이야
     //안녕 난 은혜
+    //모두 열심히하자  ^ ^ 
     //다들 조용히 하도록!
 
     //asdsadasdasd 2018011028
