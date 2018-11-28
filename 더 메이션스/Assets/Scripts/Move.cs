@@ -15,6 +15,7 @@ public class Move : MonoBehaviour {
     //안녕 난 은혜
     //다들 조용히 하도록!
 
+    //asdsadasdasd 2018011028
 	// Use this for initialization
 	void Start () {
 		
