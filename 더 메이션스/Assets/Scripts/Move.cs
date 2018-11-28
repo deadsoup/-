@@ -11,6 +11,7 @@ public class Move : MonoBehaviour {
     //이거나 받아라!
     //여기는 박용주 컴퓨터다
     //여기는 강빈컴퓨터다
+    //여기는 효민이 컴퓨터다 이말이야
 
 	// Use this for initialization
 	void Start () {
