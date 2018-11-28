@@ -10,6 +10,7 @@ public class Move : MonoBehaviour {
     //dmdl
     //이거나 받아라!
     //여기는 박용주 컴퓨터다
+    //여기는 강빈컴퓨터다
 
 	// Use this for initialization
 	void Start () {
